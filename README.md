@@ -1,6 +1,4 @@
-# Server Sync
-
-> **Working title.** Replace it once we pick a name.
+# Worldpass
 
 Take turns hosting the same Minecraft server from your own PCs, with the world synced between you and only one host at a time.
 
