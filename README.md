@@ -81,13 +81,10 @@ cargo build --release
 
 ## Contributing
 
-We are not accepting outside contributions yet, while we settle ownership and licensing. Issues and ideas are welcome.
+We are not accepting outside contributions yet. Issues and ideas are welcome.
 
 ## License
 
-**TODO: choose one and delete the other.**
-
-- Free for noncommercial use under [PolyForm Noncommercial 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0). For commercial use, contact us.
 - Licensed under the [GNU AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.txt). A separate commercial license may be available; contact us.
 
-Copyright (c) 2026 `<your name>` and `<brother's name>`
+Copyright (c) 2026 `Dinanka Koirala` and `Aijan Subedi`
